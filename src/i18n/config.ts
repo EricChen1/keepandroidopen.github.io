@@ -35,6 +35,7 @@ export const languages = {
 
   // South & Southeast Asian
   "vi": { label: "Tiếng Việt", path: "/vi/" },
+  "vi-hani": { label: "㗂越", path: "/vi-hani/" },
   "th": { label: "ไทย", path: "/th/" },
   "id": { label: "Indonesia", path: "/id/" },
   "tl": { label: "Tagalog", path: "/tl/" },
